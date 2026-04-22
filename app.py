@@ -37,7 +37,7 @@ warnings.filterwarnings("ignore")
 # ── Constants ────────────────────────────────────────────────────────────────
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "churn.csv")
 RANDOM_STATE = 42
-TARGET = "churn"
+TARGET = "Churn"
 
 # ── Design tokens ─────────────────────────────────────────────────────────────
 PALETTE = {
